@@ -16,7 +16,7 @@ Sou estudante de Ciência da Computação com foco em Desenvolvimento de Softwar
 - 🌱 No início da jornada — aprendendo com consistência e evoluindo dia após dia
 - 🏗️ Utilizando **Draw.io** e **Miro** para modelagem e arquitetura antes de codar
 - 🤖 Explorando **IA (Claude AI)** como aliada no aprendizado
-- 📍 Brasil
+- 📍 Valaparaíso-GO | Brasil 🇧🇷
 
 ---
 
