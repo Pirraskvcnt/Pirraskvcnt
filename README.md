@@ -1,18 +1,13 @@
-<h1 align="center">[Pierre Cavalcante]</h1>
+<h1 align="center">Pierre Cavalcante 🧑‍💻🌐</h1>
 
 <h3 align="center">
   Estudante de Ciência da Computação &nbsp;·&nbsp; Desenvolvedor de Software em Formação<br/>
   Aprendendo, evoluindo e apaixonado por tecnologia
 </h3>
 
-<p align="center">
-  [![Typing SVG](https://demolab.com!+👋;Bem-vindo+ao+meu+perfil;Desenvolvedor+Front-End)](https://git.io)
-
-</p>
-
 ---
 
-## 👨‍💻 Sobre mim
+## 👋 Sobre mim
 
 Sou estudante de Ciência da Computação com foco em Desenvolvimento de Software. Estou no início da minha jornada na programação — aprendendo com consistência, construindo meu portfólio e evoluindo dia após dia. Acredito que tecnologia é uma das ferramentas mais poderosas para resolver problemas reais.
 
@@ -56,7 +51,7 @@ Sou estudante de Ciência da Computação com foco em Desenvolvimento de Softwar
 
 ## 🎯 Objetivos
 
-- [x] Concluir os fundamentos de Python
+- [ ] Concluir os fundamentos de Python
 - [ ] Desenvolver minha primeira API com Python
 - [ ] Aprender banco de dados (SQL + PostgreSQL)
 - [ ] Conseguir minha primeira oportunidade como Desenvolvedor de Software
@@ -77,8 +72,8 @@ Sou estudante de Ciência da Computação com foco em Desenvolvimento de Softwar
 | | |
 |---|---|
 | 📧 **E-mail** | pierreflores002@gmail.com |
-| 📱 **Telefone** | (61) 99915-7867 |
 | 💼 **LinkedIn** | [linkedin.com/in/pierre-cavalcante](https://www.linkedin.com/in/pierre-cavalcante-79986426b/) |
+| 📱 **Telefone** | (61) 99915-7867 |
 
 ---
 
