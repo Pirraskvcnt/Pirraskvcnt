@@ -6,19 +6,20 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=378ADD&center=true&vCenter=true&width=620&lines=Estudando%2C+construindo+e+crescendo+todos+os+dias.;Ciência+da+Computação+|+Back-end+|+Python;Cada+linha+de+código+é+um+passo+à+frente+🚀" alt="Typing SVG" />
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=510EF7&width=435&lines=+Estudando%2C+construindo+e+crescendo+todos+os+dias.)](https://git.io/typing-svg)
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
+Sou estudante de Ciência da Computação com foco em Desenvolvimento de Software. Estou no início da minha jornada na programação — aprendendo com consistência, construindo meu portfólio e evoluindo dia após dia. Acredito que tecnologia é uma das ferramentas mais poderosas para resolver problemas reais.
+
 - 🎓 Estudante de **Ciência da Computação**
 - 🔙 Foco em **Desenvolvimento de Software** com Python
 - 🌱 No início da jornada — aprendendo com consistência e evoluindo dia após dia
 - 🏗️ Utilizando **Draw.io** e **Miro** para modelagem e arquitetura antes de codar
 - 🤖 Explorando **IA (Claude AI)** como aliada no aprendizado
-- 💡 Acredito que tecnologia é uma das ferramentas mais poderosas para resolver problemas reais
 - 📍 Brasil
 
 ---
@@ -54,7 +55,7 @@
 
 ## 🎯 Objetivos
 
-- [ ] Concluir os fundamentos de Python
+- [x] Concluir os fundamentos de Python
 - [ ] Desenvolver minha primeira API com Python
 - [ ] Aprender banco de dados (SQL + PostgreSQL)
 - [ ] Conseguir minha primeira oportunidade como Desenvolvedor de Software
@@ -64,8 +65,8 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=default&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Pirraskvcnt&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pirraskvcnt&layout=compact&theme=default&hide_border=true" />
 </p>
 
 ---
