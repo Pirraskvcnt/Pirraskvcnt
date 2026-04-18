@@ -6,7 +6,8 @@
 </h3>
 
 <p align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=510EF7&width=435&lines=+Estudando%2C+construindo+e+crescendo+todos+os+dias.)](https://git.io/typing-svg)
+  [![Typing SVG](https://demolab.com!+👋;Bem-vindo+ao+meu+perfil;Desenvolvedor+Front-End)](https://git.io)
+
 </p>
 
 ---
