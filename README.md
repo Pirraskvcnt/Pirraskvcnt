@@ -15,7 +15,7 @@ Sou estudante de Ciência da Computação com foco em Desenvolvimento de Softwar
 - 🔙 Foco em **Desenvolvimento de Software** com Python
 - 🌱 No início da jornada — aprendendo com consistência e evoluindo dia após dia
 - 🏗️ Utilizando **Draw.io** e **Miro** para modelagem e arquitetura antes de codar
-- 🤖 Explorando **IA (Claude AI)** como aliada no aprendizado
+- 🤖 Explorando **Claude Code** como assistente de desenvolvimento
 - 📍 Valaparaíso-GO | Brasil 🇧🇷
 
 ---
@@ -34,7 +34,7 @@ Sou estudante de Ciência da Computação com foco em Desenvolvimento de Softwar
 
 **IA & Modelagem**
 
-![Claude AI](https://img.shields.io/badge/Claude%20AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-5A67D8?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=black)
 ![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white)
 
@@ -45,7 +45,7 @@ Sou estudante de Ciência da Computação com foco em Desenvolvimento de Softwar
 - 🐍 **Fundamentos de Python** — estruturas de dados, funções, OOP e boas práticas
 - 🗂️ **Versionamento com Git & GitHub** — commits semânticos, branches e fluxo de trabalho
 - 🏗️ **Modelagem e arquitetura** — diagramas com Draw.io e Miro para projetar soluções antes de codar
-- 🤖 **IA como ferramenta** — utilizando Claude AI para acelerar o aprendizado com responsabilidade
+- 🤖 **IA como ferramenta** — utilizando Claude Code para acelerar o aprendizado com responsabilidade
 
 ---
 
