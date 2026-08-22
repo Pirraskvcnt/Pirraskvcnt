@@ -1,47 +1,43 @@
-# Hi 👋, I'm Pierre Cavalcante
+# Pierre Cavalcante ☕💻
 
-### Computer Science Student | Backend Development | Java
+![Computer Science Student](https://img.shields.io/badge/-Computer%20Science%20Student-2b2b2b?style=flat-square)
 
-I'm a Computer Science student focused on building a strong foundation in software development, with a growing interest in **Backend Development and Java**.
+<details open>
+<summary><b>👨‍💻 About Me (🇺🇸 English)</b></summary>
+<br>
 
-- 🔭 Currently building projects and strengthening my backend development foundations
-- 🌱 Learning **Java, Programming Logic, Algorithms, MySQL, Git & GitHub, and Web Fundamentals**
-- 🎯 My goal is to grow as a **Backend Developer** and build reliable and well-structured software
-- 📫 Reach me at **pierreflores002@gmail.com**
-- ⚡ Fun fact: When I'm not coding, you'll probably find me playing basketball or enjoying some games
+I'm a Computer Science student passionate about understanding how software works and how good solutions are built from strong fundamentals.
 
----
+My main focus is **Backend Development with Java**, while continuously strengthening my knowledge in Programming Logic, Algorithms, Data Structures, Databases, Git & GitHub, and Web Fundamentals.
 
-## 🛠️ Languages and Tools
+I believe that becoming a good developer goes beyond learning frameworks or memorizing syntax. That's why I focus on understanding the concepts behind programming, improving my problem-solving skills, and building a solid foundation that I can apply to real projects.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,c,html,css,mysql,git" />
-</p>
+I'm constantly learning, experimenting, and turning theory into practice through projects as I grow toward becoming a **Backend Software Developer**.
 
----
+</details>
 
-## 🤝 Connect with me
+<details>
+<summary><b>👨‍💻 Sobre mim (🇧🇷 Português)</b></summary>
+<br>
 
-<p align="left">
-  <a href="https://linkedin.com/in/pierre-cavalcante-kvcnt" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
-  </a>
-</p>
+Sou um estudante de Ciência da Computação apaixonado por entender como o software funciona e como boas soluções são construídas a partir de fundamentos sólidos.
 
----
+Meu foco principal é **Desenvolvimento de Backend com Java**, ao mesmo tempo em que fortaleço continuamente meu conhecimento em Lógica de Programação, Algoritmos, Estruturas de Dados, Bancos de Dados, Git/GitHub e Fundamentos da Web.
 
-## 📊 GitHub Stats
+Acredito que se tornar um bom desenvolvedor vai além de aprender frameworks ou memorizar sintaxe. É por isso que me concentro em entender os conceitos por trás da programação, melhorar minhas habilidades de resolução de problemas e construir uma base sólida que eu possa aplicar em projetos reais.
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pirraskvcnt&show_icons=true&locale=en" alt="Pierre's GitHub Stats" />
-</p>
+Estou constantemente aprendendo, experimentando e transformando teoria em prática por meio de projetos à medida que cresço em direção a me tornar um **Desenvolvedor de Software Backend**.
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pirraskvcnt&show_icons=true&locale=en&layout=compact" alt="Pierre's Most Used Languages" />
-</p>
+</details>
 
 ---
 
+### Languages and Tools
+
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Pirraskvcnt&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://skillicons.dev/icons?i=java,c,html,css,mysql,git,github" />
 </p>
+
+---
+
+<p align="center"> 🧩 <i>Learning how things work, not just how to use them.</i> </p>
