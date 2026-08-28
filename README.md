@@ -22,7 +22,7 @@ I'm constantly learning, experimenting, and turning theory into practice through
 
 Sou um estudante de Ciência da Computação apaixonado por entender como o software funciona e como boas soluções são construídas a partir de fundamentos sólidos.
 
-Meu foco principal é **Desenvolvimento de Backend com Java**, ao mesmo tempo em que fortaleço continuamente meu conhecimento em Lógica de Programação, Algoritmos, Estruturas de Dados, Bancos de Dados, Git/GitHub e Fundamentos da Web.
+Meu foco principal é **Desenvolvimento de Backend com Java**, ao mesmo tempo em que fortaleço continuamente meu conhecimento em Lógica de Programação, Algoritmos, Estruturas de Dados, Bancos de Dados, Git & GitHub e Fundamentos da Web.
 
 Acredito que se tornar um bom desenvolvedor vai além de aprender frameworks ou memorizar sintaxe. É por isso que me concentro em entender os conceitos por trás da programação, melhorar minhas habilidades de resolução de problemas e construir uma base sólida que eu possa aplicar em projetos reais.
 
